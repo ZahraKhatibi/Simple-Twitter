@@ -1,0 +1,25 @@
+users
+id UNIQUE INTEGER
+name CHAR(25)
+username UNIQUE CHAR(30)
+password INTEGER(20)
+time TIMESTAMP
+tweet_id INTEGER(100)
+
+tweets
+tweet_id UNIQUE INTEGER
+username CHAR(20)
+retweett_of INTEGER
+liked_ids INTEGER(600)
+time TIMESTAMP
+tweet CHAR(1000)
+comment_id INTEGER(100)
+
+comments
+comment_id UNIQUE INTEGER
+username CHAR(20)
+comment_for INTEGER
+time TIMESTAMP
+comment CHAR(500)
+
+
