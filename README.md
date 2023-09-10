@@ -1,4 +1,4 @@
-# SQL Database Management System
+# Simple Twitter with schema and database in C++
 
 This is a simple SQL-like Database Management System (DBMS) implemented in C++. It provides basic functionalities for managing a database, including INSERT, SELECT, DELETE, and UPDATE operations. The system uses text files to store and manipulate data.
 
