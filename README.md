@@ -1,4 +1,4 @@
-# README for SQL Database Management System
+# SQL Database Management System
 
 This is a simple SQL-like Database Management System (DBMS) implemented in C++. It provides basic functionalities for managing a database, including INSERT, SELECT, DELETE, and UPDATE operations. The system uses text files to store and manipulate data.
 
@@ -8,7 +8,7 @@ This is a simple SQL-like Database Management System (DBMS) implemented in C++. 
 3. [Error Handling](#error-handling)
 4. [Schema](#schema)
 5. [Sample Input](#sample-input)
-6. 
+
 ## Overview<a name="overview"></a>
 
 The DBMS supports the following operations:
